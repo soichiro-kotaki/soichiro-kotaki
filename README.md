@@ -1,3 +1,6 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=soichiro-kotaki)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=soichiro-kotaki)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=soichiro-kotaki" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soichiro-kotaki" />
+</a>
